@@ -9,4 +9,7 @@ When the down arrow key is pressed, the paper appears to go through the printer 
 The upward arrow will send the paper back to the top (back in time!!). The code is very simple and written as a part of 
 academic requirement (monthly assignment) of VTU 6th semester Computer Graphics course.
 
+Note that this C program was written on a Macintosh operating system.
+To run it on linux systems, please change the OpenGL headers to <GL/glut.h>
+
 Enjoy!
