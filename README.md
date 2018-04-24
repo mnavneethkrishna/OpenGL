@@ -12,4 +12,12 @@ academic requirement (monthly assignment) of VTU 6th semester Computer Graphics 
 Note that this C program was written on a Macintosh operating system.
 To run it on linux systems, please change the OpenGL headers to <GL/glut.h>
 
+To execute on a Mac :
+ Install XCode and then in the terminal with file in directory, "gcc printer.c -framework OpenGl -framework GLUT"
+ 
+On Linux:
+ Install OpenGL first, later with file in directory, "gcc printer.c -lglut -lGL -lGLU"
+ 
+That should pop the window to display the printer :)
+
 Enjoy!
